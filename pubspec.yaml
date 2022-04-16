@@ -1,0 +1,9 @@
+name: kite_connect
+version: 0.0.1
+
+environment:
+  sdk: '>=2.14.0 <3.0.0'
+dependencies:
+  dartz: ^0.10.1
+dev_dependencies:
+  test: ^1.19.5
